@@ -4,7 +4,7 @@
   "description": "Gantry 5 / JS and CSS bundler",
   "main": "gulpfile.js",
   "dependencies": {
-    "npm": "^7.20.5"
+    "npm": "^12.0.2"
   },
   "devDependencies": {
     "browserify": "^17.0.1",
@@ -17,7 +17,7 @@
     "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.8",
     "merge-stream": "^2.0.0",
-    "npm": "^7.24.2",
+    "npm": "^12.0.2",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^4.0.0",
